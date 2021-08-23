@@ -2,7 +2,7 @@
 * @Author: Just be free
 * @Date:   2021-08-05 09:38:51
 * @Last Modified by:   Just be free
-* @Last Modified time: 2021-08-05 09:55:03
+* @Last Modified time: 2021-08-23 11:42:56
 * @E-mail: justbefree@126.com
 */
 export const teamMember = [
@@ -20,6 +20,11 @@ export const teamMember = [
     github: "https://github.com/ygl11223344",
     title: "ygl11223344",
     profile: "https://avatars.githubusercontent.com/u/26109120?v=4"
+  },
+  {
+    github: "https://github.com/liuzhenxiaoqqq",
+    title: "liuzhenxiaoqqq",
+    profile: "https://avatars.githubusercontent.com/u/30256797?s=120&v=4"
   },
   {
     github: "https://github.com/hushjh",
