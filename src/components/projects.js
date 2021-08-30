@@ -2,7 +2,7 @@
 * @Author: Just be free
 * @Date:   2021-08-05 09:55:29
 * @Last Modified by:   Just be free
-* @Last Modified time: 2021-08-05 10:17:34
+* @Last Modified time: 2021-08-30 18:41:09
 * @E-mail: justbefree@126.com
 */
 
@@ -39,6 +39,15 @@ export const projects = [
     github: "",
     name: "@dullar/mercury",
     examples: "http://ui.dullar.xyz/mercury/#/",
+    desc: "Advanced and highly reusable UI Components built on",
+    builtOn: "Vue2",
+    outsideUrl: "https://vuejs.org/"
+  },
+  {
+    npm: "",
+    github: "",
+    name: "@dullar/earth",
+    examples: "http://ui.dullar.xyz/earth/#/",
     desc: "Advanced and highly reusable UI Components built on",
     builtOn: "Vue2",
     outsideUrl: "https://vuejs.org/"
