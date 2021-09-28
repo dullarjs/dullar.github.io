@@ -10,7 +10,7 @@
         <!-- <img src="../assets/github.svg"> -->
         View on Github
       </a>
-      <a class="docs icon" href="./docs" target="_blank">
+      <a class="docs icon" href="http://wiki.dullar.xyz/" target="_blank">
         <!-- <img src="../assets/docs.svg"> -->
         View online docs
       </a>
