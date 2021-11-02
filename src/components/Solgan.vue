@@ -5,7 +5,7 @@
     </h1>
     <div>
       <h2 class="h2">DULLAR</h2>
-      <p class="description">Self build web frontend ecosystem for high performance and efficiency</p>
+      <p class="description">Self build web frontend ecosystem not just for high performance, efficiency as well</p>
       <a class="github icon" href="https://github.com/dullarjs" target="_blank">
         <!-- <img src="../assets/github.svg"> -->
         View on Github
